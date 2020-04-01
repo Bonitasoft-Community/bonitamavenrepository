@@ -1,7 +1,7 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
 	<properties>
 		<!-- <ping.version>2.4.0</ping.version> -->
-		<bonita.version>7.9.0</bonita.version>
+		<bonita.version>7.8.4</bonita.version>
 	   	<maven.compiler.source>1.8</maven.compiler.source>
    		<maven.compiler.target>1.8</maven.compiler.target>
 	</properties>
@@ -20,7 +20,7 @@
 		<dependency>
 			<groupId>org.bonitasoft.log.event</groupId>
 			<artifactId>bonita-event</artifactId>
-			<version>1.7.0</version>
+			<version>1.8.0</version>
 		</dependency>
 		<dependency>
 			<groupId>org.bonitasoft.properties</groupId>
