@@ -51,7 +51,7 @@
 		<dependency>
 			<groupId>org.bonitasoft.command</groupId>
 			<artifactId>bonita-commanddeployment</artifactId>
-			<version>1.8.0</version>
+			<version>1.9.0</version>
 		</dependency>
 		
 		<dependency>
