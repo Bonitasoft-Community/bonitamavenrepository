@@ -268,7 +268,7 @@
 						<configuration>
 							<mainClass>org.bonitasoft.store.BonitaStoreAccessorClient</mainClass>
 							<arguments>
-								<argument>http://localhost:9080</argument>
+								<argument>http://localhost:8080</argument>
 								<argument>bonita</argument>
 								<argument>Walter.Bates</argument>
 								<argument>bpm</argument>
